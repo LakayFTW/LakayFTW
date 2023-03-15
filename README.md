@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
 <br>
 
