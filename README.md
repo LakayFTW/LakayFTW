@@ -35,7 +35,7 @@
 ---
 <h1 align="center">About me</h1>
 
-- Trainee in Software Development
+- Software Developer
 - 22 Years old
 - Germany
 
