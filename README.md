@@ -4,6 +4,9 @@
 <div align="center">
     <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoCoor=white">
+    <img src="https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoCoor=white">
 </div>
 <br>
 <h3 align="center">Languages & Co</h3>
@@ -30,9 +33,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoCoor=white">
-    <img src="https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoCoor=white">
 </div>
 <br>
 
