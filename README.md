@@ -16,8 +16,9 @@
 <h3 align="center">Learning</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </div>
 <br>
 <h3 align="center">Technologies</h3>
@@ -29,6 +30,9 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoCoor=white">
+    <img src="https://img.shields.io/badge/Joplin-1071D3?style=flat&logo=joplin&logoCoor=white">
 </div>
 <br>
 
