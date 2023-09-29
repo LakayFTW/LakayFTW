@@ -1,5 +1,3 @@
-<h1 align="center">Hello my Name is Lakay.</h1>
-
 # 👋 Hi
 
 Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 4 years of Experience. I have passion for exploring new things and finding my groove. I'm also trying to pick up some hardware and sysadmin skills!
