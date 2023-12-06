@@ -21,9 +21,8 @@ Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany
 # ⛓ Languages, Frameworks & Co
 
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -34,7 +33,7 @@ Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) -->
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/)
 
 
 # 📚 See my Stuff
