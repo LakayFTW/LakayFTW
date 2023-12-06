@@ -40,7 +40,7 @@ Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany
 
 [![Doggo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=doggo-bot&theme=gruvbox)](https://github.com/LakayFTW/Doggo-Bot)
 [![Auto-Key-Presser](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=auto-presser&theme=gruvbox)](https://github.com/LakayFTW/auto-presser)
-[![Exam Prep](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=exam-prep-fiae-2023&theme=gruvbox)]()
+[![Exam Prep](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=exam-prep-fiae-2023&theme=gruvbox)](https://github.com/LakayFTW/exam-prep-fiae-2023)
 
 # 📊 Some Stats
 
