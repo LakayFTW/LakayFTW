@@ -1,6 +1,6 @@
 # 👋 Hi
 
-Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 4 years of Experience. I have passion for exploring new things and finding my groove. I'm also trying to pick up some hardware and sysadmin skills!
+### Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 4 years of Experience. I have passion for exploring new things and finding my groove. I'm also trying to pick up some hardware and sysadmin skills!
 
 # 🛠 Tools
 
@@ -33,7 +33,10 @@ Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white")
+[![Minetest](https://img.shields.io/badge/Minetest-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)](https://www.minetest.net/)
+
+<!-- [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/) -->
 
 
 # 📚 See my Stuff
