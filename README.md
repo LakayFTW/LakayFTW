@@ -1,8 +1,10 @@
+<div align="center">
+
 # 👋 Hi
 
-### Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 4 years of Experience. I have passion for exploring new things and finding my groove. I'm also trying to pick up some hardware and sysadmin skills!
+### Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 5 years of Experience. I am trying to learn a lot of things all at the same time, because that is what developers do.
 
-# 🛠 Tools
+# 🛠 Tools & Technologies 💻
 
 ![VSCode](https://img.shields.io/badge/IDE-VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -10,13 +12,11 @@
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-# 💻Technologies
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) -->
 
 # ⛓ Languages, Frameworks & Co
 
