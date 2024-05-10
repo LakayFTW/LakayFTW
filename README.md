@@ -35,6 +35,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white")
 [![Minetest](https://img.shields.io/badge/Minetest-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)](https://www.minetest.net/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 <!-- [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/) -->
 
