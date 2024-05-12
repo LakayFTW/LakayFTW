@@ -1,57 +1,61 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FDE767,100:D04848&height=150&section=header&text=Hi%20I'm%20Lakay&fontColor=DCF2F1&stroke=000000&strokeWidth=2)
 
-# 👋 Hi
+![Stars](https://img.shields.io/github/stars/lakayftw?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/lakayftw?style=for-the-badge)
 
-### Hi my name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 5 years of Experience. I am trying to learn a lot of things all at the same time, because that is what developers do.
+My name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 5 years of Experience. I am trying to learn a lot of things all at the same time, because that is what developers do.
 
-# 🛠 Tools & Technologies 💻
 
-![VSCode](https://img.shields.io/badge/IDE-VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+## ⌨️ Languages
+[![Languages](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+
+## ⛓ Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,net,discordjs,tailwind)](https://skillicons.dev)   
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+## ⌨️ IDEs
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+
+## 🗨️ Tools (Documentation, Planning, Communication)
+[![Tools](https://skillicons.dev/icons?i=github,git,md,notion,)](https://skillicons.dev)   
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
+
+## 🛠️ Everyday Tools
+[![Tools](https://skillicons.dev/icons?i=npm,powershell,bash)](https://skillicons.dev)
+
+## 💻 Operating Systems
+### Main OS
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+### Using sporadically (debian is used for my containers)
+[![OS](https://skillicons.dev/icons?i=debian,ubuntu)](https://skillicons.dev)
+
+## 🔧 Sysadmin Tools
+[![SysAdmin](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)   
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) -->
+## 🔭 Learning
+[![Learning](https://skillicons.dev/icons?i=java,ts,python)](https://skillicons.dev)
 
-# ⛓ Languages, Frameworks & Co
-
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
-![NextJs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-# 👨‍🎓 Learning
-
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white")
+# 🗓️ Future Plans
+[![Future](https://skillicons.dev/icons?i=c,cpp,godot,lua,blender)](https://skillicons.dev)   
 [![Minetest](https://img.shields.io/badge/Minetest-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)](https://www.minetest.net/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-
-<!-- [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/) -->
 
 
-# 📚 See my Stuff
+# 🖊️ Currently Working on
+[![Doggo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=doggo-bot&theme=tokyonight)](https://github.com/LakayFTW/Doggo-Bot)   
+![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/Doggo-Bot?style=for-the-badge&color=blue)
 
-[![Doggo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=doggo-bot&theme=gruvbox)](https://github.com/LakayFTW/Doggo-Bot)
-[![Auto-Key-Presser](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=auto-presser&theme=gruvbox)](https://github.com/LakayFTW/auto-presser)
-[![Exam Prep](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=exam-prep-fiae-2023&theme=gruvbox)](https://github.com/LakayFTW/exam-prep-fiae-2023)
+### I am also working on a website which sadly can't be on an open repository. The website is build with nextjs.
+
+# 🗓️ See older Stuff
+[![Auto-Key-Presser](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=auto-presser&theme=tokyonight)](https://github.com/LakayFTW/auto-presser)
+[![Exam Prep](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=exam-prep-fiae-2023&theme=tokyonight)](https://github.com/LakayFTW/exam-prep-fiae-2023)
 
 # 📊 Some Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=lakayftw&show_icons=true&theme=tokyonight&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakayftw&layout=donut&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lakayftw&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakayftw&layout=donut&theme=gruvbox)
-
-<!---
-LakayFTW/LakayFTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📱 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakayftw)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/LakayFTW/)
