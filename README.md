@@ -7,11 +7,13 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 
 
 ## ⌨️ Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)   
+At the moment i am focusing less on C#. C# was widely used in my education.
 
 ## ⛓ Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,net,discordjs,tailwind)](https://skillicons.dev)   
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)   
+Same goes for .NET and Blazor. Those were also used in my education. Like that is how i learned programming in the first place.
 
 ## ⌨️ IDEs
 [![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
