@@ -19,8 +19,9 @@ Same goes for .NET and Blazor. Those were also used in my education. Like that i
 [![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
 ## 🗨️ Tools (Documentation, Planning, Communication)
-[![Tools](https://skillicons.dev/icons?i=github,git,md,notion,)](https://skillicons.dev)   
+[![Tools](https://skillicons.dev/icons?i=github,git,md,notion)](https://skillicons.dev)   
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 🛠️ Everyday Tools
 [![Tools](https://skillicons.dev/icons?i=npm,powershell,bash)](https://skillicons.dev)
