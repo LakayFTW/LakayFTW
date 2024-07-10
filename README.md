@@ -58,7 +58,3 @@ Same goes for .NET and Blazor. Those were also used in my education. Like that i
 # 📊 Some Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=lakayftw&show_icons=true&theme=tokyonight&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakayftw&layout=donut&theme=tokyonight)
-
-# 📱 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakayftw)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/LakayFTW/)
