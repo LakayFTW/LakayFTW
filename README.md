@@ -38,7 +38,7 @@ Same goes for .NET and Blazor. Those were also used in my education. Like that i
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 ## 🔭 Learning
-[![Learning](https://skillicons.dev/icons?i=java,ts,python,flutter,symfony,php)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,ts,python,flutter,symfony,php,remix)](https://skillicons.dev)
 
 # 🗓️ Future Plans
 [![Future](https://skillicons.dev/icons?i=c,cpp,godot,lua,blender)](https://skillicons.dev)   
