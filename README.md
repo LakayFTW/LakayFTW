@@ -59,7 +59,7 @@ Same goes for .NET and Blazor. Those were also used in my education. Like that i
 	</tr>
 	<tr>
 	  <td>
-![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/pomodoro-remix?style=for-the-badge&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/Doggo-Bot?style=for-the-badge&color=blue)
 		</td>
 		<td>
 ![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/pomodoro-remix?style=for-the-badge&color=blue)
