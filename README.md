@@ -46,8 +46,26 @@ Same goes for .NET and Blazor. Those were also used in my education. Like that i
 
 
 # 🖊️ Currently Working on
-[![Doggo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=doggo-bot&theme=tokyonight)](https://github.com/LakayFTW/Doggo-Bot)   
-![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/Doggo-Bot?style=for-the-badge&color=blue)
+
+<table>
+  <tr>
+    <td>
+
+[![Doggo-Bot](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=doggo-bot&theme=tokyonight)](https://github.com/LakayFTW/Doggo-Bot)
+		</td>
+		<td>
+[![Pomodoro-App](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=pomodoro-remix&theme=tokyonight)](https://github.com/LakayFTW/pomodoro-remix)
+		</td>
+	</tr>
+	<tr>
+	  <td>
+![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/pomodoro-remix?style=for-the-badge&color=blue)
+		</td>
+		<td>
+![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/pomodoro-remix?style=for-the-badge&color=blue)
+		</td>
+	</tr>
+</table>
 
 ### I am also working on a website which sadly can't be on an open repository. The website is build with nextjs.
 
