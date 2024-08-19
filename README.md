@@ -7,42 +7,40 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 
 
 ## ⌨️ Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)   
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,php&titles=true)
 
 ### Not using anymore
-[![Languages](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)   
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs)
 
 
 ## ⛓ Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,net,discordjs,tailwind)](https://skillicons.dev)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,net,discordjs,tailwind)
 
 ### Not using anymore
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) 
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=blazor)
+
 
 
 ## ⌨️ IDEs
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio)
 
 ## 🛠️ Tools
-[![Tools](https://skillicons.dev/icons?i=github,git,docker)](https://skillicons.dev)   
-[![Tools](https://skillicons.dev/icons?i=npm,bash,neovim,md,notion)](https://skillicons.dev)   
-[![SysAdmin](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=github,git,docker,proxmox)   
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=npm,bash,neovim,md,notion)   
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)   
 
 ## 💻 Operating Systems
 ### Main OS
-[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-
+![Windows](https://go-skill-icons.vercel.app/api/icons?i=windows)
 ### Work & Container
-[![OS](https://skillicons.dev/icons?i=debian,ubuntu)](https://skillicons.dev)
+![OS](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu)
 
 ## 🔭 Learning
-[![Learning](https://skillicons.dev/icons?i=java,ts,python,flutter,symfony,remix)](https://skillicons.dev)
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,ts,python,flutter,symfony,remix)
 
 # 🗓️ Future Plans
-[![Future](https://skillicons.dev/icons?i=c,cpp,godot,lua,blender)](https://skillicons.dev)
+![Future](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,godot,lua,blender)
 [![Minetest](https://img.shields.io/badge/Minetest-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)](https://www.minetest.net/)
 
 
