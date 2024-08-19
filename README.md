@@ -7,41 +7,42 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 
 
 ## ⌨️ Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)   
-At the moment i am focusing less on C#. C# was widely used in my education.
+[![Languages](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)   
+
+### Not using anymore
+[![Languages](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)   
+
 
 ## ⛓ Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,net,discordjs,tailwind)](https://skillicons.dev)   
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)   
-Same goes for .NET and Blazor. Those were also used in my education. Like that is how i learned programming in the first place.
+[![Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,net,discordjs,tailwind)](https://skillicons.dev)
+
+### Not using anymore
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) 
+
 
 ## ⌨️ IDEs
 [![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
-## 🗨️ Tools (Documentation, Planning, Communication)
-[![Tools](https://skillicons.dev/icons?i=github,git,md,notion)](https://skillicons.dev)   
+## 🛠️ Tools
+[![Tools](https://skillicons.dev/icons?i=github,git,docker)](https://skillicons.dev)   
+[![Tools](https://skillicons.dev/icons?i=npm,bash,neovim,md,notion)](https://skillicons.dev)   
+[![SysAdmin](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Trello](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=trello&logoColor=white)
-
-## 🛠️ Everyday Tools
-[![Tools](https://skillicons.dev/icons?i=npm,powershell,bash)](https://skillicons.dev)
+![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)   
 
 ## 💻 Operating Systems
 ### Main OS
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
-### Using sporadically (debian is used for my containers)
+### Work & Container
 [![OS](https://skillicons.dev/icons?i=debian,ubuntu)](https://skillicons.dev)
 
-## 🔧 Sysadmin Tools
-[![SysAdmin](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)   
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
 ## 🔭 Learning
-[![Learning](https://skillicons.dev/icons?i=java,ts,python,flutter,symfony,php,remix)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,ts,python,flutter,symfony,remix)](https://skillicons.dev)
 
 # 🗓️ Future Plans
-[![Future](https://skillicons.dev/icons?i=c,cpp,godot,lua,blender)](https://skillicons.dev)   
+[![Future](https://skillicons.dev/icons?i=c,cpp,godot,lua,blender)](https://skillicons.dev)
 [![Minetest](https://img.shields.io/badge/Minetest-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)](https://www.minetest.net/)
 
 
