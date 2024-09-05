@@ -6,15 +6,16 @@
 My name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 5 years of Experience. I am trying to learn a lot of things all at the same time, because that is what developers do.
 
 
-## ⌨️ Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,php&titles=true)
+## ⌨️ Languages & Co
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,php,twig&titles=true)
 
 ### Not using anymore
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=cs)
 
 
 ## ⛓ Frameworks
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,net,discordjs,tailwind)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,net,discordjs)   
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,symfony)
 
 ### Not using anymore
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=blazor)
@@ -37,7 +38,7 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 ![OS](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu)
 
 ## 🔭 Learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,ts,python,flutter,symfony,remix)
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,ts,python,flutter,remix)
 
 # 🗓️ Future Plans
 ![Future](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,godot,lua,blender)
