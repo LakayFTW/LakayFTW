@@ -57,6 +57,11 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 [![Pomodoro-App](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=pomodoro-remix&theme=tokyonight)](https://github.com/LakayFTW/pomodoro-remix)
 		</td>
 	</tr>
+        <tr>
+	 <td>
+[![Pomodoro-App](https://github-readme-stats.vercel.app/api/pin/?username=lakayftw&repo=tabliss-css&theme=tokyonight)](https://github.com/LakayFTW/tabliss-css)
+  	 </td>
+	</tr>
 	<tr>
 	  <td>
 ![Last Commit](https://img.shields.io/github/last-commit/LakayFTW/Doggo-Bot?style=for-the-badge&color=blue)
