@@ -38,7 +38,7 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 ![OS](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu)
 
 ## 🔭 Learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,ts,python,flutter,remix)
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,ts,python,flutter,remix,go)
 
 # 🗓️ Future Plans
 ![Future](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,godot,lua,blender)
