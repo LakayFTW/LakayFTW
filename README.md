@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/lakayftw?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/lakayftw?style=for-the-badge)
 
-My name is Luca, i am 23 Years old and i am a Software Developer from Germany with just 5 years of Experience. I am trying to learn a lot of things all at the same time, because that is what developers do.
+My name is Luca, i am 25 Years old and i am a Software Developer from Germany with just 5 years of Experience. I am trying to learn a lot of things all at the same time, because that is what developers do.
 
 
 ## ⌨️ Languages & Co
@@ -15,7 +15,7 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 
 ## ⛓ Frameworks
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,next,nodejs,net,discordjs)   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,symfony)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,symfony,payload)
 
 ### Not using anymore
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=blazor)
@@ -23,11 +23,11 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 
 
 ## ⌨️ IDEs
-![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio)
+![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode)
 
 ## 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=github,git,docker,proxmox)   
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=npm,bash,neovim,md,notion)   
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=github,gitlab,git,docker,proxmox)   
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=neovim,md,notion)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)   
 
@@ -35,14 +35,10 @@ My name is Luca, i am 23 Years old and i am a Software Developer from Germany wi
 ### Main OS
 ![Windows](https://go-skill-icons.vercel.app/api/icons?i=windows)
 ### Work & Container
-![OS](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu)
+![OS](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,kde)
 
 ## 🔭 Learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=java,ts,python,flutter,remix,go)
-
-# 🗓️ Future Plans
-![Future](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,godot,lua,blender)
-[![Minetest](https://img.shields.io/badge/Minetest-53AC56?style=for-the-badge&logo=Minetest&logoColor=white)](https://www.minetest.net/)
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=ts,python,go)
 
 
 # 🖊️ Currently Working on
